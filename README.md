@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+can get, add, delete and change status of todos
 ![image](https://github.com/NoorAldeenAbuShehadeh/FE-BE_ReactTodo/assets/102482887/2723c95e-311b-4b61-80f7-0a1f818048ab)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
